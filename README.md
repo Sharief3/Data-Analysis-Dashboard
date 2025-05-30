@@ -24,6 +24,7 @@ Store can understand their customers and grow more sales in 2023 & 2024.
 -	Highest selling category
 
     ## Dashboard
-"C:\Users\SHAIK SHARIEF\OneDrive\Pictures\sales\excel dashboard.png"
+C:\Users\SHAIK SHARIEF\OneDrive\Pictures\sales
+
 
 
