@@ -23,8 +23,8 @@ Store can understand their customers and grow more sales in 2023 & 2024.
 
 -	Highest selling category
 
-    See the full dashboard here - <a href=”C:\Users\SHAIK SHARIEF\OneDrive\Pictures\sales\excel dashboard.png">View Dashboard</a>
-    (excel dashboard.png)
+ - Dashboard Interaction  <a href="https://github.com/Sharief3/Data-Analysis-Dashboard/blob/main/excel%20dashboard.png">View Dashboard</a>
+ https://github.com/Sharief3/Data-Analysis-Dashboard/blob/main/excel%20dashboard.png
  	
  	
 
