@@ -35,6 +35,16 @@ Store can understand their customers and grow more sales in 2023 & 2024.
   
 ![excel dashboard](https://github.com/user-attachments/assets/7e86c51c-3383-4211-8c65-a79d765cb407)
 
+## Project Insight
+-	Female customer are more likely to buy products compared to men (~64%).
+-	The states of Uttar Pradesh, Tamil Nadu, and Kerala are the Top 3 products buyers.
+-	The adult age group(39-49 yrs) is max contributing (~37%) and buys the most products.
+-	The Maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
+## Final Conclusion:
+To improve the sales of Vrinda Store, a strategic marketing plan focused on Female aged 30-49 years
+Residing in Pradesh, Tamil Nadu, and Kerala should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+
+
 
  	
  	
