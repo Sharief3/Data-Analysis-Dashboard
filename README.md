@@ -31,6 +31,10 @@ Store can understand their customers and grow more sales in 2023 & 2024.
 -	Created pivot tables according to the questions asked.
 -	Merge all pivot tables into one dashboard and apply slicer to make dynamic
 
+  ## Dashboard
+  
+![excel dashboard](https://github.com/user-attachments/assets/7e86c51c-3383-4211-8c65-a79d765cb407)
+
 
  	
  	
