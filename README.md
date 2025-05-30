@@ -4,6 +4,5 @@ The Vrinda Store wants to create an annual sales report for 2022. S0 that, the o
 Store can understand their customers and grow more sales in 2023 & 2024.
 
 ## Dataset use
-<a href="https://1drv.ms/x/c/db6e6cdc117b2446/ETPiWsxoEIJHs-U1NosWOHYBDtVJz2luW6j5pKocxpF-xA?e=rxccFt"> Vrinda Stored data</a>
 <a href="https://github.com/Sharief3/Data-Analysis-Dashboard/edit/main/README.md">Dataset</a>
 
